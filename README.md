@@ -1,1 +1,1 @@
-# landing_page
+Odin Project: landing_page
